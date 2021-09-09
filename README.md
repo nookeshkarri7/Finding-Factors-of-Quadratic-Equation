@@ -12,6 +12,8 @@ YoutubeVideo Embedding ,
 Whatsapp link generation using JavaScript with your name ,
 JS Prompt method to get your name ,
 Ramabadhra Fonts for telugu text,
+Random message text will generated everytime you share to your friends.
+
 Bootstrap Columns for Reponsive design
 ------
 Live Demo - https://lnkd.in/gv6deAkq
